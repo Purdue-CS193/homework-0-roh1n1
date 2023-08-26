@@ -1,3 +1,14 @@
+## Test header 1
+#  test header 2
+- test 1a
+- test 1b
+
+1. test 2a
+2. test 2b
+
+**BOLD test**
+_Italics test_
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
