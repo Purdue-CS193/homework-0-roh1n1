@@ -1,21 +1,18 @@
-## Test header 1
-#  test header 2
-- test 1a
-- test 1b
+## _Rohini Pillai's First CS193 Homework_
 
-1. test 2a
-2. test 2b
+### My favorite things about CS193
+- It is a more informal class - very chill vibes
+- My instructors are more approachable
+- Always clear what is expected from us students
+- Makes CS more fun (and less scary)
+- **NO EXAMS! :)**
 
-**BOLD test**
-_Italics test_
-
-## Welcome to GitHub Pages
-
+### Resources to reference
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -39,10 +36,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+#### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
